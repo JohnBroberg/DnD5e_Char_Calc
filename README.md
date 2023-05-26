@@ -1,9 +1,7 @@
-# DnD5e_Char_Calc
-Calculate modifiers, level, hit points, and other stats for Dungeons and Dragons 5e character sheets, with minimal inputs.
+# D&D 5e Fighter Character Sheet Generator
 
-# D&D Fighter Character Sheet Generator
-
-This script generates a character sheet for a D&D fighter based on user input for ability scores, experience points, and level. It calculates various modifiers, hit points, proficiency bonus, and displays the acquired features and abilities based on the fighter's level.
+This script generates character stats and details for a D&D fighter based on user input for ability scores and experience points. 
+It calculates level, various modifiers, hit points, proficiency bonus, and displays the acquired features and abilities based on the fighter's level.
 
 ## Prerequisites
 
@@ -11,13 +9,13 @@ This script generates a character sheet for a D&D fighter based on user input fo
 
 ## Usage
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/JohnBroberg/DnD5e_Char_Calc.git
 
 
-2. Navigate to the project directory:
+2. Navigate to the project directory: cd DnD5e_Char_Calc 
 
 
-3. Run the script:
+3. Run the script: Class_Fighter.ipynb
 
 
 4. Follow the prompts to enter the fighter's ability scores and experience points.
