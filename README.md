@@ -12,7 +12,7 @@ It calculates level, various modifiers, hit points, proficiency bonus, and displ
 1. Clone the repository: https://github.com/JohnBroberg/DnD_Char_Calc.git
 
 
-2. Navigate to the project directory: cd DnD5e_Char_Calc 
+2. Navigate to the project directory: cd DnD_Char_Calc 
 
 
 3. Run the script: Class_Fighter.ipynb
